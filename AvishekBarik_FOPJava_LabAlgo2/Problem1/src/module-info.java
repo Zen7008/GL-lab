@@ -1,0 +1,2 @@
+module Algo_2 {
+}
